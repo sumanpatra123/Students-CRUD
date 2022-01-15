@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Suman Patra",
+      "age": 24
+    },
+    {
+      "id": "2",
+      "name": "Shweta Sharma",
+      "age": "25"
+    },
+    {
+      "id": "3",
+      "name": "Prachi Patel",
+      "age": "27"
+    },
+    {
+      "id": "4",
+      "name": "Dikshya Mishra",
+      "age": "28"
+    },
+    {
+      "id": "5",
+      "name": "Arpita Mishra",
+      "age": "21"
+    }
+  ]
+}
